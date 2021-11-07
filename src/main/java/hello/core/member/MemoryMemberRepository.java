@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MemoryMemberRepository implements MemberRepository{
-    private static Map<Long, Member> store = new HashMap<>();
+    private static Map<Long, Member> store = new HashMap<>(); // 동시성 에러가 발생할 수 있지만 개발용으로 단순히 사용
 
     @Override
     public void save(Member member) {

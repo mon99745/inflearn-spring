@@ -1,4 +1,6 @@
 package hello.core.member;
+
+// Impl 관례상 하나의 인터페이스를 갖을때의 이름
 public class MemberServiceImpl implements MemberService {
     private final MemberRepository memberRepository;
 

@@ -9,7 +9,11 @@ import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
+/*
+ * Junit 을 이용해서 test를 할 수 있지만
+ * 아래와 같이 test 가능
+ * 주문 로직
+ */
 public class OrderApp {
 
     public static void main(String[] args) {

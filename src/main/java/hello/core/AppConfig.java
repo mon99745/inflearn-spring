@@ -11,7 +11,10 @@ import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
+/*
+ * Junit 을 이용해서 test를 할 수 있지만
+ * 아래와 같이 test 가능
+ */
 @Configuration // AppConfig에 설정을 구성한다는 뜻
 public class AppConfig {
     /*

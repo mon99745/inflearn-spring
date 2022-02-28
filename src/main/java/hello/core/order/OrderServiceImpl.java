@@ -8,7 +8,11 @@ import hello.core.member.MemoryMemberRepository;
 
 public class OrderServiceImpl implements OrderService {
     private final MemberRepository memberRepository;
+
+    // OrderServiceImpl 은 DiscountPolicy 인터페이스에 의존한다.
+    // 즉, DiscountPolicy에 상세한 내용은 기술되지 않는다.
     private final DiscountPolicy discountPolicy;
+
 //    private final DiscountPolicy discountPolicy = new FixDiscountPolicy(); // 정액 할인 정책
 //    private final DiscountPolicy discountPolicy = new RateDiscountPolicy(); // 정률 할인 정책
 //    private DiscountPolicy discountPolicy; // 인터페이스에만 의존하도록 설계

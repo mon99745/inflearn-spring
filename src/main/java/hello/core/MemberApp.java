@@ -10,11 +10,12 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
   */
 public class MemberApp {
     public static void main(String[] args) {
-        // AppConfig appConfig = new AppConfig();
-        // MemberService memberService = appConfig.memberService();
-        ApplicationContext applicationContext = new
-                AnnotationConfigApplicationContext(AppConfig.class);
+//         AppConfig appConfig = new AppConfig();
+//         MemberService memberService = appConfig.memberService();
+        // 스프링 컨테이너를 사용하기 위해 아래와 같이 변경
+        ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
         MemberService memberService = applicationContext.getBean("memberService", MemberService.class);
+
         Member member = new Member(1L, "memberA", Grade.VIP);
         memberService.join(member);
 

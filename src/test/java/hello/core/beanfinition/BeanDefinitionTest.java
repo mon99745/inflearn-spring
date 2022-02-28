@@ -9,6 +9,9 @@ import org.springframework.beans.factory.config.ConstructorArgumentValues;
 import
         org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
+ /*
+ * 스프링 빈 설정 메타 정보
+ */
 public class BeanDefinitionTest {
     AnnotationConfigApplicationContext ac = new
             AnnotationConfigApplicationContext(AppConfig.class);

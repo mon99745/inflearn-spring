@@ -39,8 +39,8 @@ public class AppConfig {
     /*
     * 리펙터링 후
     * @Bean을 붙여줘서, 스프링 컨테이너에 스프링 빈으로 등록
+    * appConfig.xml과 같다.
     */
-
     @Bean
     public MemberService memberService() {
         return new MemberServiceImpl(memberRepository());

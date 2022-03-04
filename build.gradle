@@ -6,11 +6,27 @@ plugins {
 group = 'hello'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	} }
+
 repositories {
 	mavenCentral()
 }
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
+
+//	//lombok 라이브러리 추가
+//	compileOnly 'org.projectlombok:lombok'
+//	annotationProcessor 'org.projectlombok:lombok'
+
+	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
+	testCompileOnly 'org.projectlombok:lombok'
+	testAnnotationProcessor 'org.projectlombok:lombok'
+
 	implementation 'org.testng:testng:7.1.0'
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'

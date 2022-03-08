@@ -1,9 +1,6 @@
-### inflearn - spring
-1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
-2. 스프링 핵심 원리 - 기본편
-3. 모든 개발자를 위한 HTTP 웹 기본 지식
+### inflearn - spring - base
 
-<img width="868" alt="image" src="https://user-images.githubusercontent.com/84507123/157218520-3e09278c-33ca-4768-ad92-f39fd59e4fd2.png">
+2. 스프링 핵심 원리 - 기본편
 
 <img width="868" alt="image" src="https://user-images.githubusercontent.com/84507123/157218376-85265cd0-3213-4ae0-bcf2-1a6d6883c8cd.png">
 

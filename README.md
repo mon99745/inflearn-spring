@@ -11,6 +11,6 @@
 
 <img width="868" alt="image" src="https://user-images.githubusercontent.com/84507123/157218563-858826c6-7c08-4a16-9175-e8cad6bc7de8.png">
 
-#### 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
+### 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/84507123/157227882-1c03120c-3237-4003-9f53-ac50f93adf67.png">
 

@@ -5,7 +5,7 @@
 4. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 5. 스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술 (학습중)
 
-- 자세한 내용은 Velog를 참고해주세요 
+- 자세한 내용은 Velog
 https://velog.io/@mon99745
 
 <img width="868" alt="image" src="https://user-images.githubusercontent.com/84507123/157218520-3e09278c-33ca-4768-ad92-f39fd59e4fd2.png">

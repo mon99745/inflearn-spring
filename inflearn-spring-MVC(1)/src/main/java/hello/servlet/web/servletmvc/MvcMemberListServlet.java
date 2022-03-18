@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.List;
-
+// 회원 목록 호출
 @WebServlet(name = "mvcMemberListServlet", urlPatterns = "/servlet-mvc/members")
 public class MvcMemberListServlet extends HttpServlet {
     private MemberRepository memberRepository = MemberRepository.getInstance();

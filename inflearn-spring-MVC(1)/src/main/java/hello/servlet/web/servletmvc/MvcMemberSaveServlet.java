@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+// 회원 저장 페이지 호출
 @WebServlet(name = "mvcMemberSaveServlet", urlPatterns = "/servlet-mvc/members/save")
         public class MvcMemberSaveServlet extends HttpServlet {
         private MemberRepository memberRepository = MemberRepository.getInstance();

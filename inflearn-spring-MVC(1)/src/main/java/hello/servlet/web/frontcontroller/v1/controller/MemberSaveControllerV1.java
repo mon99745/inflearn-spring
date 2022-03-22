@@ -7,6 +7,10 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+
+/*
+ * 회원 저장 컨트롤러
+ */
 public class MemberSaveControllerV1 implements ControllerV1 {
     private MemberRepository memberRepository = MemberRepository.getInstance();
     @Override

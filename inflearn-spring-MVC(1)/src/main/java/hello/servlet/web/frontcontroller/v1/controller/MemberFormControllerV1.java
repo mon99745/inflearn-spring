@@ -9,7 +9,6 @@ import java.io.IOException;
 /*
  * 회원 등록 컨트롤러
  */
-
 public class MemberFormControllerV1 implements ControllerV1 {
     @Override
     public void process(HttpServletRequest request, HttpServletResponse

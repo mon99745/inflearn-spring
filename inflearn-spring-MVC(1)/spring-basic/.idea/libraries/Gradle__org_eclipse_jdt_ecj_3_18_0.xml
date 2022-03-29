@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.jdt:ecj:3.18.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/ecj/3.18.0/4d5d0911b30db24c8eb844702c8adf8e434314ff/ecj-3.18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/ecj/3.18.0/a3e3bc746b00e64363061bc18ae3a53b0c078de8/ecj-3.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ac6862-67fb-41c5-a018-ea367ba83676" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/7.4.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/build/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic-project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic/.idea/modules/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic/.idea/modules/demo.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic/.idea/modules/demo.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/spring-basic/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="70ac6862-67fb-41c5-a018-ea367ba83676" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,12 +46,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)" />
+      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(1)" />
+      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc" />
+      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -127,7 +99,7 @@
       <workItem from="1648580302166" duration="2000" />
       <workItem from="1648580537339" duration="33000" />
       <workItem from="1648580574253" duration="16000" />
-      <workItem from="1648581048571" duration="303000" />
+      <workItem from="1648581048571" duration="438000" />
     </task>
     <servers />
   </component>

@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70ac6862-67fb-41c5-a018-ea367ba83676" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +94,7 @@
       <workItem from="1648579144819" duration="49000" />
       <workItem from="1648579269343" duration="25000" />
       <workItem from="1648579364727" duration="141000" />
-      <workItem from="1648579533179" duration="79000" />
+      <workItem from="1648579533179" duration="174000" />
     </task>
     <servers />
   </component>

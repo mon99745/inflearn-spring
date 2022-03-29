@@ -5,6 +5,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 import java.util.List;
+
+/**
+ * 회원 목록 폼
+ */
 @Controller
 public class SpringMemberListControllerV1 {
 

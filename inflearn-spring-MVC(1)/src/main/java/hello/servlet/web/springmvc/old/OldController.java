@@ -5,6 +5,9 @@ import org.springframework.web.servlet.mvc.Controller;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * view 조회할 수 있도록 변경 
+ */
 @Component("/springmvc/old-controller")
 public class OldController implements Controller {
     @Override

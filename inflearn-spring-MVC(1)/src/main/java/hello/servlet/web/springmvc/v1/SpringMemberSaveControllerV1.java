@@ -7,6 +7,9 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * 회원 저장 폼
+ */
 @Controller
 public class SpringMemberSaveControllerV1 {
 

@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -58,8 +58,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc" />
       <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)" />
+      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc" />
       <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(1)" />
       <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)" />
       <recent name="$PROJECT_DIR$" />
@@ -110,6 +110,8 @@
       <workItem from="1649043403535" duration="1303000" />
       <workItem from="1649047486205" duration="51000" />
       <workItem from="1649047548960" duration="33000" />
+      <workItem from="1649047639979" duration="160000" />
+      <workItem from="1649047810111" duration="66000" />
     </task>
     <servers />
   </component>

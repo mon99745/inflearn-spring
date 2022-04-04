@@ -46,15 +46,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc" />
       <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)" />
       <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(1)" />
-      <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc" />
       <recent name="$PROJECT_DIR$/inflearn-spring-MVC(1)" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -100,6 +100,7 @@
       <workItem from="1648580537339" duration="33000" />
       <workItem from="1648580574253" duration="16000" />
       <workItem from="1648581048571" duration="438000" />
+      <workItem from="1648581575872" duration="316000" />
     </task>
     <servers />
   </component>

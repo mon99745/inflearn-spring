@@ -27,16 +27,16 @@ class ItemRepositoryTest {
 
     @Test
     void findAll() {
-        //given
+        //given 상태를 설명, 선언
         Item item1 = new Item("item1", 10000, 10);
         Item item2 = new Item("item2", 20000, 20);
         itemRepository.save(item1);
         itemRepository.save(item2);
 
-        //when
+        //when 테스트하고자 하는 행동, 목적
         List<Item> result = itemRepository.findAll();
 
-        //then
+        //then 예상되는 변화에 대한 설명, 검증
         assertThat(result.size()).isEqualTo(2);
         assertThat(result).contains(item1, item2);
     }

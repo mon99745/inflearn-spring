@@ -6,6 +6,32 @@
   <component name="ChangeListManager">
     <list default="true" id="70ac6862-67fb-41c5-a018-ea367ba83676" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(1)/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/.gradle/6.8.2/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/WEB-INF/views/members.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/WEB-INF/views/new-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/WEB-INF/views/save-result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/basic/hello-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/jsp/members.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/jsp/members/new-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc/src/main/webapp/jsp/members/save.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn-spring-base/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +74,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/inflearn-spring-MVC(1)/springmvc-project(2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -115,6 +141,7 @@
       <workItem from="1649060099804" duration="629000" />
       <workItem from="1649149071715" duration="193000" />
       <workItem from="1649153096992" duration="1220000" />
+      <workItem from="1649223724637" duration="39000" />
     </task>
     <servers />
   </component>
@@ -131,5 +158,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

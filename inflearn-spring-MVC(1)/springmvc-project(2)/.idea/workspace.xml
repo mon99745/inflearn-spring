@@ -11,7 +11,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/editForm.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/item.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/basic/items.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -66,7 +68,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/basic" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -78,12 +80,18 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/basic" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ItemServiceApplication">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="ItemRepositoryTest.updateItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="item-service.test" />
       <extension name="coverage">
@@ -109,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
         <item itemvalue="JUnit.ItemRepositoryTest.updateItem" />
       </list>
     </recent_temporary>
@@ -129,7 +138,9 @@
       <workItem from="1649047923341" duration="7176000" />
       <workItem from="1649059883970" duration="210000" />
       <workItem from="1649149271145" duration="1092000" />
-      <workItem from="1649212678590" duration="2033000" />
+      <workItem from="1649212678590" duration="4041000" />
+      <workItem from="1649253632743" duration="853000" />
+      <workItem from="1649254503275" duration="1413000" />
     </task>
     <servers />
   </component>

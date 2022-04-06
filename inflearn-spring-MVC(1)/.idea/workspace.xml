@@ -7,8 +7,13 @@
     <list default="true" id="91fd656b-cbcc-4b08-a65c-16d8e2e3ae3a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springmvc-project(1)/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-project(2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-project(2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-project(2)/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc/.gradle/6.8.2/javaCompile/classAnalysis.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/springmvc/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc/build/tmp/war/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/springmvc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/springmvc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/springmvc/gradlew.bat" beforeDir="false" />

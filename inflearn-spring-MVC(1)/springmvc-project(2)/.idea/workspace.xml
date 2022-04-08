@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db46c658-aff0-452e-8728-c428db4a2e7a" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/itemservice/web/basic/BasicItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/addForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/editForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/items.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/basic/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/basic/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/basic/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/basic/item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/itemservice/web/basic/BasicItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/itemservice/web/basic/BasicItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/static/html/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/static/html/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/itemservice/web/basic/BasicItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/itemservice/web/basic/BasicItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/html/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/html/item.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +140,7 @@
       <workItem from="1649212678590" duration="4041000" />
       <workItem from="1649253632743" duration="853000" />
       <workItem from="1649254503275" duration="1413000" />
+      <workItem from="1649308532153" duration="5355000" />
     </task>
     <servers />
   </component>
